@@ -1,3 +1,3 @@
 # findchessboardcorners
-results about function(findChessboardCorners()) and show some pics
-![pic1](https://github.com/xiaonimo/findchessboardcorners/Raw/master/pictures%20of%20results/l1.PNG)
+<li>1.results about function(findChessboardCorners()) and show some pics
+<li>2.pics and result-pictures are in the folder named "pics of result"
