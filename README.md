@@ -1,3 +1,3 @@
 # findchessboardcorners
-<li>1.results about function(findChessboardCorners()) and show some pics
-<li>2.pics and result-pictures are in the folder named "pictures of results"
+<li>1.Run function(findChessboardCorners()) and show some pictures
+<li>2.Raw pictures(rawN.PNG) and result pictures(resN.PNG) are in the folder named "pictures of results"
