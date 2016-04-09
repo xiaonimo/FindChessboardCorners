@@ -7,7 +7,7 @@ using namespace std;
 using namespace cv;
 
 extern double	imgScale;
-extern Size		patSize;
+extern Size	patSize;
 
 /*
  date:2016-04-09-16:05
