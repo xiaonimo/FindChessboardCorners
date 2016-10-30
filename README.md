@@ -1,5 +1,10 @@
-# findchessboardcorners
-<li>1.Run function(findChessboardCorners()) and show some pictures
-<li>2.Raw pictures(rawN.PNG) and result pictures(resN.PNG) are in the folder named "pictures of results"
+# FindChessboardCorners
+<li>Find corners in a chessboard.
+<li>Used to celebrate a camera.
 
-![Raw Picture 1](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/raw1.PNG)
+![Raw 1](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/raw1.PNG)
+![Res 1](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/res1.PNG)
+![Raw 2](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/raw2.PNG)
+![Res 2](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/res2.PNG)
+![Raw 3](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/raw3.PNG)
+![Res 3](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/res3.PNG)
