@@ -2,7 +2,7 @@
 <li>Find corners in a chessboard.
 <li>Used to celebrate a camera.
 
-![Raw 1](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/raw1.PNG)
+<img src="https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/raw1.PNG" width=50%/>
 ![Res 1](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/res1.PNG)
 ![Raw 2](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/raw2.PNG)
 ![Res 2](https://github.com/xiaonimo/FindChessboardCorners/raw/master/Results/res2.PNG)
